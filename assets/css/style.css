@@ -1,0 +1,9 @@
+body {
+    background: url("../images/psychic-bg.jpg");
+    background-position: top;
+    background-size: 700px;
+    background-repeat: no-repeat;
+    color: rgb(167, 56, 189);
+    font-size: 24px;
+}
+
